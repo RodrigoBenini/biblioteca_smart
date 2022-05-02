@@ -8,6 +8,8 @@ Instruções para testar:
 
 3- Para realização do teste é necessario dar start na pasta backend com o comando npm run start:dev, e na pasta frontend com o comando npm start.
 
+4- Usuario default para o login é user, e a senha é password.
+
 Observações:
 
 *O banco de dados esta em nuvem por meio do "atlas" do mongodb,portanto será necessario me passar o ip externo da máquina que será usada para testar a aplicação.

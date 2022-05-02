@@ -2,17 +2,13 @@
 
 Instruções para testar:
 
-1- Pasta frontend contem framework react.js junto com suas dependências,
-instalar com npm install.
+1- Pasta frontend contem framework react.js junto com suas dependências,o FrontEnd está setado para rodar estrutura "route" do react no localhost:3000(utilizar para testar projeto em si.
 
-2-Pasta backend contem framework nest.js junto com suas dependências,
-instalar com npm install.
+2-Pasta backend contem framework nest.js junto com suas dependências,o BackEnd está gerando as estruturas com os dados da api no localhost:3001
+
+3- Para realização do teste é necessario dar start na pasta backend com o comando npm run start:dev, e na pasta frontend com o comando npm start.
 
 Observações:
-
-*FrontEnd está setado para rodar estrutura "route" do react no localhost:3000(utilizar para testar projeto em si)
-
-*BackEnd está gerando as estruturas dos dados da api no localhost:3001
 
 *O banco de dados esta em nuvem por meio do "atlas" do mongodb,portanto será necessario me passar o ip externo da máquina que será usada para testar a aplicação.
 

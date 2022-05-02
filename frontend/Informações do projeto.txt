@@ -1,0 +1,3 @@
+Projeto de sistema web(single page aplication) com a finalizade de cadastro,alteração e visualização de galeria de fotos em nuvem, com a arquitetura desenvolvida para uma página só. Tecnologias usadas: Stack MERN(react,node,express,mongodb + bibliotecas adicionais)
+
+*Pasta node_modules não incluída, devido ao limite do github.

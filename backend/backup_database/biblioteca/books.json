@@ -1,0 +1,8 @@
+{ 
+    "_id" : ObjectId("626a8df1cae8c201a694b654"), 
+    "titulo" : "Pense Como um Monge", 
+    "isbn" : "6555641355", 
+    "categoria" : "Auto Ajuda", 
+    "ano" : "2021", 
+    "autor" : "Jay Shetty "
+}

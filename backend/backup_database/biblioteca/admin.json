@@ -1,5 +1,0 @@
-{ 
-    "_id" : ObjectId("6266de01512c98570381b642"), 
-    "login" : "user", 
-    "password" : "password"
-}

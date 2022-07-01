@@ -4,7 +4,7 @@ Sistema de biblioteca com gerenciamento de livros e usuarios.
 
 Front-end: Desenvolvido com react.js e material.ui.
 
-Back-end: Desenvolvido com node.js e express.js
+Back-end: Em desenvolvimento com node.js e express.js
 
 Banco de dados: Mongo DB(Atlas)
 
